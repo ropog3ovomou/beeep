@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"time"
 
-	toast "github.com/go-toast/toast"
+	toast "github.com/ropog3ovomou/toast"
 	"github.com/tadvi/systray"
 	"golang.org/x/sys/windows/registry"
 )
